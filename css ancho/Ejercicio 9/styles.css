@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenedor {
+    height: 200px; 
+    background-color: #f0f0f0; 
+    padding: 20px; 
+}
+
+.mi-elemento {
+    height: inherit; 
+    width: 100px; 
+    background-color: #3498db; 
+    margin: 0 auto; 
+}
